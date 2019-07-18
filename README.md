@@ -1,2 +1,10 @@
 # MachineLearning
-Machine learning projects that span different subject areas from SVM to Deep Learning
+This repo contains machine learning projects that span different subject areas from SVM to Deep Learning. More to come...
+
+## Deep Learning
+### Image Recognition
+* [Here we use keras to perform Deep Learning]('https://github.com/ngebodh/MachineLearning/blob/master/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb')
+
+
+
+
