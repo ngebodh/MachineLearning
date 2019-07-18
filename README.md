@@ -3,7 +3,7 @@ This repo contains machine learning projects that span different subject areas f
 
 ## Deep Learning
 ### Image Recognition
-* [Here we use keras to perform Deep Learning]('https://github.com/ngebodh/MachineLearning/blob/master/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb')
+* [Here we use keras to perform Deep Learning](https://github.com/ngebodh/MachineLearning/blob/master/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb)
 
 
 
