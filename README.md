@@ -3,7 +3,11 @@ This repo contains machine learning projects that span different subject areas f
 
 ## Deep Learning
 ### Image Recognition
-* [Here we use keras to perform Deep Learning](/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb)
+* [Here](/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb) we use keras to perform Deep Learning
+
+## SVMs
+### Image Classification
+* [Here](SVM/EigenFaces_PCA.ipynb) we use a combination of PCA and SVMs to classify famous faces
 
 
 
