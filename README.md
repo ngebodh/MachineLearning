@@ -11,12 +11,11 @@ This repo contains machine learning projects that span different subject areas f
 
 
 * [Here](DeepLearning/ImageRecog/DeepLearning_DigitClassificationWithKeras.ipynb) we build a deep neural network to classify hand written digits from the MNIST dataset. <br/>
-<img align="center" src='https://camo.githubusercontent.com/67f1a590b484c3f006597f781a46b60903c26d23/68747470733a2f2f692e7974696d672e636f6d2f76692f7572364a5932486c2d4d4d2f687164656661756c742e6a7067' width="20%" hight="30%"/>
+[<img align="center" src='https://camo.githubusercontent.com/67f1a590b484c3f006597f781a46b60903c26d23/68747470733a2f2f692e7974696d672e636f6d2f76692f7572364a5932486c2d4d4d2f687164656661756c742e6a7067' width="20%" hight="30%"/>](DeepLearning/ImageRecog/DeepLearning_DigitClassificationWithKeras.ipynb)
 
 
 
 ## SVMs
 ### Image Classification
 * [Here](SVM/EigenFaces_PCA.ipynb) we use a combination of PCA and SVMs to classify famous faces
-
-<img align="center" src='https://upload.wikimedia.org/wikipedia/commons/6/67/Eigenfaces.png' width="20%" hight="40%"/>
+[<img align="center" src='https://upload.wikimedia.org/wikipedia/commons/6/67/Eigenfaces.png' width="20%" hight="40%"/>](SVM/EigenFaces_PCA.ipynb)
