@@ -17,5 +17,5 @@ This repo contains machine learning projects that span different subject areas f
 
 ## SVMs
 ### Image Classification
-* [Here](SVM/EigenFaces_PCA.ipynb) we use a combination of PCA and SVMs to classify famous faces
+* [Here](SVM/EigenFaces_PCA.ipynb) we use a combination of PCA and SVMs to classify famous faces. <br/>
 [<img align="center" src='https://upload.wikimedia.org/wikipedia/commons/6/67/Eigenfaces.png' width="20%" hight="40%"/>](SVM/EigenFaces_PCA.ipynb)
