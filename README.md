@@ -3,7 +3,9 @@ This repo contains machine learning projects that span different subject areas f
 
 ## Deep Learning
 ### Image Recognition
-* [Here](/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb) we use keras to perform Deep Learning
+* [Here](/DeepLearning/ImageRecog/DeepLearningWithKeras-ImageRecog.ipynb) we use the ResNet50 model in keras to perform image recognition.
+* [Here](/DeepLearning/ImageRecog/DeepLearningWithKeras_ImageRecog_VGG16.ipynb) we use the VGG16 model in keras to perform image recognition.
+* [Here](DeepLearning/ImageRecog/DeepLearning_DigitClassificationWithKeras.ipynb) we build a deep neural network to classify hand written digits from the MNIST dataset. 
 
 ## SVMs
 ### Image Classification
