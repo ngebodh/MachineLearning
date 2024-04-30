@@ -12,8 +12,8 @@ This repo contains a few machine learning projects using LLMs, Deep Learning, an
     * You can read more about the project [here](https://ngebodh.github.io/projects/2024-03-05/).
     * You can try try the interactive demo [here](https://ngebodh.github.io/projects/2024-03-05/index_demo.html).
      <br> **Note:** The Gemma models are currently being updated for inference and may not work at times. Hugging Face periodically updates and models may be unavailable at times.
-
-<img src='https://github.com/ngebodh/MachineLearning/blob/master/images/LLLMChatbot.gif' width="65%"/>
+     <br>
+     <img src='https://github.com/ngebodh/MachineLearning/blob/master/images/LLLMChatbot.gif' width="65%"/>
 
 <br>
 
