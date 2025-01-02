@@ -15,6 +15,14 @@ This repo contains a few machine learning projects using LLMs, Deep Learning, an
      <br>
      <img src='https://github.com/ngebodh/MachineLearning/blob/master/images/LLLMChatbot.gif' width="65%"/>
 
+### General
+
+* ### Experimenting with LLM temperature values
+  * [Here](https://ngebodh.github.io/projects/Short_dive_posts/LLM_temp/LLM_temp.html) we look at how changing the LLM temperature parameter affects the outputs.
+     <img src='https://github.com/ngebodh/MachineLearning/blob/master/images/LLM_temp_scale.gif' width="65%"/>
+
+
+
 <br>
 
 ## Deep Learning
